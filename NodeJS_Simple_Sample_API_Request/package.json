@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_simple_sample_api_request",
+  "version": "1.0.0",
+  "description": "\"Simple Sample API Request\"",
+  "main": "api_consult_sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rmartinezm",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
