@@ -1,10 +1,14 @@
-Roberto Martínez Medina
-Facultad de Ciencias UNAM
+<p>
+    Roberto Martínez Medina
+    Facultad de Ciencias UNAM
+<p>
 
-Ejemplo simple de una petición a maps.googleapis con NodeJS.
+Ejemplo simple de una petición a maps.googleapis con NodeJS.<br>
 
-Para ejecutar el programa:
-    En consola instalar los paquetes necesarios con npm 
-        npm install
-    Correr el comando 
-        node api_consult_sample.js
+<p>
+    Para ejecutar el programa <br>
+      * En consola instalar los paquetes necesarios con npm<br> 
+      ---> npm install<br>
+      * Correr el comando <br>
+      ---> node api_consult_sample.js
+</p>
